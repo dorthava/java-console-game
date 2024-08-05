@@ -1,2 +1,2 @@
-# repository-template
-Template repository for all the projects.
+# Team 00 – Java bootcamp
+Console Game & Maven
